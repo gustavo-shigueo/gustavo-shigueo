@@ -8,7 +8,7 @@
 ![](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs,rust,php,mysql)
 
 #### Libraries and frameworks:
-![](https://skillicons.dev/icons?i=tailwind,react,nextjs,solidjs,nodejs,dotnet)
+![](https://skillicons.dev/icons?i=tailwind,react,nextjs,solidjs,nodejs,dotnet,tauri)
 
 #### Development environment:
 ![](https://skillicons.dev/icons?i=git,github,neovim,visualstudio,vscode)
