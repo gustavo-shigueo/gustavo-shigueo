@@ -41,14 +41,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gustavo-shigueo/count.svg?"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gustavo-shigueo/count.svg?"  />
-</div>
-
-###
